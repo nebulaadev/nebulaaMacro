@@ -2,7 +2,7 @@
   
 How to use:  
 
-Extract Resources.zip in a folder  
+Extract resources.zip in a folder  
 Insert macro.exe and uploader.exe in said folder  
 Start macro.exe  
 Check Settings > Setup Help to setup the macro  
